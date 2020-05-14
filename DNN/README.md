@@ -1,4 +1,4 @@
-This colab notebook demonstartes implementation of DNN used to predict if a patient is hyperglycemic or not based on their ECG data.
+This colab notebook demonstrates implementation of DNN used to predict if a patient is hyperglycemic or not based on their ECG data.
 
 
 a) ECG data is preprocessed using:
