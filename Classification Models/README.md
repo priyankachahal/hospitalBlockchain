@@ -1,4 +1,5 @@
-This notebook demonstartes implementation of various machine learning models used to predict if a patient is hyperglycemic or not based on their ECG data.
+# Classification Models 
+This notebook demonstrates implementation of various machine learning models used to predict if a patient is hyperglycemic or not based on their ECG data.
 
 a) ECG data is preprocessed using:
 1. Butter BandPass Filter
@@ -15,5 +16,5 @@ c) Following models are demonstrated :
 3. Linear SVM
 4. Random Forest
 
-Random Forest gives the best accuracy of 86%.
+# Random Forest gives the best accuracy of 86% among all classification models.
 
